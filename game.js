@@ -87,5 +87,5 @@ incrementScore = num => {
     scoreText.innerText = score;
 }
 
-startGame();
+// startGame();
 
